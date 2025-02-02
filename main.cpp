@@ -1,5 +1,7 @@
-#include <iostream>
+#include <cmath>
+#include "selflib/precision.h"
+#include "selflib/core.h"
+
 // testing 
 int main() {
-  std::cout << "hello world";
 }
