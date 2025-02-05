@@ -1,3 +1,5 @@
+#pragma once
+#include <cmath>
 #define real_sqrt sqrtf
 namespace cyclone {
 // this is to change later in case we need double precision
